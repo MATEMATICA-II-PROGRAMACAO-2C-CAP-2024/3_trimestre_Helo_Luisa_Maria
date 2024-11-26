@@ -1,11 +1,11 @@
 @import url(./css/header.css);
+@import url(./css/banner.css);
 :root{
     --cor-de-fundo:#d10fea82;
     --branco:#FFFFFF;
     --laranja: #EB9B00;
     --degrade: linear-gradient(90deg, rgba(224,55,213,1) 0%, rgba(255,194,240,1) 50%, rgba(224,55,213,1) 100%);
 --fonte-pricipal: "Poppins"
-}
 }
 body{
     background-color: var(--cor-de-fundo);
